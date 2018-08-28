@@ -1,2 +1,2 @@
-*.db
-/photos
+log_*
+!log_01
